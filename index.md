@@ -3,9 +3,10 @@
 [Tải xuống](setup.exe)
 
 ## Lịch sử phiên bản 
-<b>v 1.8.15 07.10.19 </b> <br/>
-  Bug fixes and other minor improvements. <br/>
-<b>v 1.8.15 07.10.19 </b> <br/>
-  Сreate new themes based on your color and wallpaper choices. <br/>
-  Share your themes with other users via links. <br/>
-  Update your theme for all its users when you change something. <br/>
+<b>v 1.0.0.16 30/10/19 </b> <br/>
+<ul>
+  <li>Bổ sung chức năng tạo nhóm hàng</li>
+  <li>Bổ sung chức năng tạo thuộc tính và giá trị</li>
+  <li>Nâng cấp devexpress 2016->2019</li>
+</ul>
+
